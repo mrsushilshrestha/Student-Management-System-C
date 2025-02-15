@@ -40,14 +40,14 @@ The application supports the following functionalities:
 6. Exit
 #### Enter your choice: 1
 
-Generated ID: 1
-Enter Name: John Doe
-Enter Batch Code (Format XXXX-123): ABCD-123
-Enter Class: Computer Science
-Enter Faculty: Engineering
-Student added successfully!
-ID   Name                           BatchCode Class      Faculty              
+#### Generated ID: 1
+#### Enter Name: John Doe
+#### Enter Batch Code (Format XXXX-123): ABCD-123
+#### Enter Class: Computer Science
+#### Enter Faculty: Engineering
+#### Student added successfully!
+#### ID   Name                           BatchCode Class      Faculty              
 ----------------------------------------------------------------------
-1    John Doe                       ABCD-123  Computer Science  Engineering
+#### 1    John Doe                       ABCD-123  Computer Science  Engineering
 
 
