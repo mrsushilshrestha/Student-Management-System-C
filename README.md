@@ -1,4 +1,4 @@
-# Student Management System - README
+# Student Management System
 
 ## Overview
 The **Student Management System** is a simple console-based application implemented in **C** to manage student records. It allows users to perform basic operations such as **adding**, **deleting**, **modifying**, **searching**, and **displaying** student records. The records are stored in a text file named `studentManagement.txt`.
